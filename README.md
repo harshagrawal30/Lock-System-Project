@@ -18,8 +18,6 @@ Another Feature of this Lock System is that owner can generate temporary passwor
 Using owner username and this temporary password, anyone can login to app and can generate the OTP which will again be send to onwer's registered E-mail Address. 
 After specific time, the guest account will logout.
 
-**Note :** As of Now, one user account can link only one lock.  
-
 ## Github Links for Complete Project
 
 
@@ -28,3 +26,7 @@ Arduino Code => [Click Here](https://github.com/harshagrawal30/Lock_System_Ardui
 Mobile App using React Native => [Click Here](https://github.com/harshagrawal30/Lock_System_React_Native_App)
 
 Backend using NodeJs and ExpressJs => [Click Here](https://github.com/harshagrawal30/Lock_System_Backend)
+
+
+
+**Note :** As of Now, one user account can link only one lock.  
