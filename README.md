@@ -8,8 +8,6 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2OTDB8BqDnU/0.jpg)](https://www.youtube.com/watch?v=2OTDB8BqDnU)
 
 
-![image](https://user-images.githubusercontent.com/65588931/204241279-5c2b3bc4-5618-4f60-a98a-7d2f389063dd.png)
-
 
 ## Opening of the Gateway
 
