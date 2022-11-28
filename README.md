@@ -17,6 +17,9 @@ After the gateway is opened, An Alert is generate in App to close Lock Again the
 Another Feature of this Lock System is that owner can generate temporary password which will valid for particular time( here 10  mins. Can be changed in Mobile App Code). 
 Using owner username and this temporary password, anyone can login to app and can generate the OTP which will again be send to onwer's registered E-mail Address. 
 After specific time, the guest account will logout.
+
+**Note :** As of Now, one user account can link only one lock.  
+
 ## Github Links for Complete Project
 
 
