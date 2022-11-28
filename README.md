@@ -2,7 +2,7 @@
 
 ***Lock System is an authenticated Locking System*** in which user Register new Door(Lock) with his Account. 
 
-![image](https://user-images.githubusercontent.com/65588931/204241045-a5485544-0b3b-4618-b507-31a8c80a0e75.png)
+![image](https://user-images.githubusercontent.com/65588931/204241279-5c2b3bc4-5618-4f60-a98a-7d2f389063dd.png)
 
 
 ## Opening of the Gateway
