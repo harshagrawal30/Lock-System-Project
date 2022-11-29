@@ -3,7 +3,7 @@
 ***Lock System is an authenticated Locking System*** in which user Register new Door(Lock) with his Account. 
 
 
-***Click Below Image to watch full video*** 👇
+## Click Below Image to watch full video 👇
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0MjGroM0Yys/0.jpg)](https://www.youtube.com/watch?v=0MjGroM0Yys)
 
